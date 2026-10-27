@@ -1,0 +1,6 @@
+Background / Context:
+Traditional banking requires customers to visit a branch during working hours for basic transactions like cash withdrawals, balance inquiries, and deposits, causing operational congestion and limiting customer convenience.
+The Core Problem:
+Bank customers lack a decentralized, automated, and secure way to perform essential financial transactions around the clock, while banks face challenges in managing secure user authentication, real-time account verification, cash inventory tracking, and hardware fault handling across distributed self-service terminals.
+The Goal:
+Design and implement an ATM System software and hardware interface that enables authenticated cardholders to safely execute balance checks, cash withdrawals, cash/check deposits, fund transfers, and mini-statement printouts while maintaining strict security limits (such as PIN retry caps and card-blocking rules).
